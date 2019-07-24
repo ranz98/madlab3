@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Msg1">my first text</string>
+    <string name="msg2">my second text</string>
+    <string name="btnText">OK</string>
+
+</resources>
